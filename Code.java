@@ -20,16 +20,16 @@ public class Fila
 
     public void ImprimeDoc() 
     {
-        System.out.println("Documento impresso.");
+        //Imprime um documento especifico
     }
 
     public void RemoveDoc() 
     {
-        System.out.println("Documento removido da fila.");
+       //Remove documento especifico
     }
 
     public void RemoveTodosDocs() 
     {
-        System.out.println("Todos os documentos removidos da fila.");
+        // Remove todos os documentos
     }
 }
